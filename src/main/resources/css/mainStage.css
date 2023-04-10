@@ -1,0 +1,16 @@
+#mainVBox {
+    -fx-background-color: #dcf0ff;
+    -fx-min-height: 500px;
+    -fx-min-width: 800px;
+}
+
+.text-field {
+    -fx-border-color: black;
+    -fx-border-radius: 5%;
+    -fx-min-width: 500px;
+    -fx-min-height: 30px;
+}
+
+.button {
+    -fx-background-color: skyblue;
+}

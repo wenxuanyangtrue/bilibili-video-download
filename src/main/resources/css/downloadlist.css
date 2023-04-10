@@ -1,0 +1,32 @@
+.main_box {
+    /*-fx-border-color: red;*/
+}
+
+.download_list {
+    -fx-min-width: 400;
+    -fx-min-height: 350;
+    -fx-max-height: 350;
+    -fx-focus-traversable: true;
+}
+
+.box_col {
+    -fx-min-width: 385;
+    -fx-min-height: 350;
+}
+
+.box_row {
+    /*-fx-background-color: linear-gradient(from 0% 0% to 100% 0%, red 0%, black 100%);*/
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-border-color: #5cc0fc;
+    /*-fx-min-width: 400;*/
+    -fx-min-height: 45;
+    -fx-effect: dropshadow(gaussian,lightskyblue,10,0.5,3,3);
+}
+
+.row_labelText {
+    /*-fx-border-color: white;*/
+    -fx-min-height: 40;
+    -fx-max-width: 200;
+    -fx-text-alignment: center;
+}

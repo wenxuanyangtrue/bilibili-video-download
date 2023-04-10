@@ -1,0 +1,13 @@
+.toggle_button {
+    -fx-background-color: #fff;
+    -fx-cursor: hand;
+}
+
+.toggle_button:hover, .toggle_button:selected {
+    -fx-background-color: skyblue;
+}
+
+.all_button:selected {
+    -fx-background-color: #0097ff;
+    -fx-text-fill: white;
+}
